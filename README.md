@@ -1,4 +1,12 @@
+# Thayana Corrêa Mamoré :woman_technologist:
+![Github URL](https://img.shields.io/twitter/url?color=black&label=Github&logo=Github&logoColor=white&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fthauska)
+![LinkedIn URL](https://img.shields.io/twitter/url?color=2867B2&label=LinkedIn&logo=LinkedIn&logoColor=white&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fthauska)
+![Twitter URL](https://img.shields.io/twitter/url?color=1da1f2&label=twitter&logo=twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fthauska)
+
 ### Hi there 👋
+
+![GitHub followers](https://img.shields.io/github/followers/thauska?label=Follow%20me&style=social)
+
 
 <!--
 **thauska/thauska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
