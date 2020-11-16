@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thauska&label=Profile%20views&color=0e75b6&style=flat" alt="thauska" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thauska" alt="thauska" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/thauska" target="blank"><img src="https://img.shields.io/twitter/follow/thauska?logo=twitter&style=for-the-badge" alt="thauska" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS, React Native and always Vue/Quasar**
