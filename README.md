@@ -12,8 +12,8 @@
 - 💬 Ask me about **Vue, React, WebXR**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="color: white">
-<a href="https://codepen.io/thauska" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="thauska" height="30" width="40" style="background-color: white" /></a>
+<p align="left" style="color: white" style="filter: invert(80%) sepia(0%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);">
+<a href="https://codepen.io/thauska" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="thauska" height="30" width="40" /></a>
 <a href="https://dev.to/thayanacmamore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="thayanacmamore" height="30" width="40" /></a>
 <a href="https://twitter.com/thauska" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thauska" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thayanacmamore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thayanacmamore" height="30" width="40" /></a>
