@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/thauska" target="blank"><img src="https://img.shields.io/twitter/follow/thauska?logo=twitter&style=for-the-badge" alt="thauska" /></a> </p>
 
-- 🔭 I’m currently working on **Salesforce projects**
+- 🔭 I’m currently working on **React Native, Vue.js and Node projects**
 
-- 🌱 I’m currently learning **Salesforce, React, MongoDB, DDD**
+- 🌱 I’m currently learning **Node, React, MongoDB, DDD**
 
 - 💬 Ask me about **Vue, React, WebXR**
 
