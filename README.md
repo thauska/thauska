@@ -11,6 +11,9 @@
 
 - 💬 Ask me about **Vue, React, WebXR**
 
+[![@thauska's Holopin board](https://holopin.me/thauska)](https://holopin.io/@thauska)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="color: white" style="filter: invert(80%) sepia(0%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);">
 <a href="https://codepen.io/thauska" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="thauska" height="30" width="40" /></a>
